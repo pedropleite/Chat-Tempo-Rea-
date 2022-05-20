@@ -1,4 +1,4 @@
-# Chat-Tempo-Real
+# Chat em Tempo Real 🤳
 
 
 <img width ="100%" src="https://github.com/pedropleite/Chat-Tempo-Real/blob/master/READMEGif.gif">
